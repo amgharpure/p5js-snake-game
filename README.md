@@ -2,5 +2,5 @@
 The snake game created in p5.js
 
 
-## Hosted link
+## Demo
 https://amgharpure.github.io/p5js-snake-game/
